@@ -1,0 +1,5 @@
+{
+	"ip":"NullSmp30344TG.aternos.me",
+	"port": "60763",
+	"name": "SERVERBOT"
+}
